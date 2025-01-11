@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate Aspiring software engineer</h3>
+<h3 align="center">A passionate aspiring software engineer</h3>
 
 - 🔭 I’m currently working on **VoteWise**
 
