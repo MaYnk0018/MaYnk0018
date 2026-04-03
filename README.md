@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate aspiring software engineer</h3>
 
-- 🔭 I’m currently working on **VoteWise**
+- 🔭 I’m currently working on **LogMind**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **React.js, Node.js, Express.js, PostgreSQL**
+- 💬 Ask me about **React.js, Node.js, Express.js, mySQL, SpringBoot**
 
 - 📫 How to reach me **mmayank.connect@gmail.com**
 
